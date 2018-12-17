@@ -1,0 +1,20 @@
+annotation of javascript
+
+			arrays 
+
+push   - add one element as the last element of the array 
+pop    - remove one element from the last element of the array
+unshif - add an element at the beginning of the array 
+shift  - remove the first element from the array
+
+			function 
+
+you can use return instead of use if else ,return can do  validation  too.
+
+
+			objects
+
+there are two ways to acess a propertie in object  in  javascript.
+the one is dot .properties, and te second is using brackets "[]"
+the second is more usefull with properties with spaces. 
+
